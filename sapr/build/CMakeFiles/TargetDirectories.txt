@@ -1,0 +1,3 @@
+/home/mayil/Desktop/sapr/build/CMakeFiles/main.dir
+/home/mayil/Desktop/sapr/build/CMakeFiles/edit_cache.dir
+/home/mayil/Desktop/sapr/build/CMakeFiles/rebuild_cache.dir
